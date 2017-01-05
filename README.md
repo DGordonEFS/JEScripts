@@ -1,3 +1,2 @@
-#Scripts
-
-A few random scripts. Mostly one-offs.
+# JEScripts
+JEphron's assorted scripts for EFS
